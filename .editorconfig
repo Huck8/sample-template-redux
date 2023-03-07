@@ -12,3 +12,4 @@ insert_final_newline = true
 
 [*.{js,ts,tsx,jsx}]
 quote_type = single
+
